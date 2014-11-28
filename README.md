@@ -12,30 +12,32 @@ I'm a junior developer looking for my first role after completing an intensive 1
 
 I began to teach myself HTML and CSS when I was working in an editorial role for Yahoo! I later taught myself PHP while taking a part-time course in web design and development at Birkbeck University. I then joined Makers Academy in August where I have gained skills in:
 
-* Ruby 2.0
+* Ruby ~>2.0
 * Javascript, jQuery and AJAX
-* Introduction to CoffeeScript, Io and Clojure
 * HTML, ERB, EJS
 * CSS, Twitter Bootstrap
-* Rails 4
+* Rails
 * Sinatra
-* Node JS
+* PostgreSQL
 * Unit and integration testing: RSpec, Jasmine, Mocha
 * End-to-end and integration testing: Capybara, Cucumber
-* Headless testing frameworks: Zombie.js, Poltergeist
 * Test-driven development and behaviour-driven development
 * Pair programming
 * Agile principles and practice
 * Object-oriented principles and design
-* PostgreSQL
 * Integration of APIs including Twilio and Google Maps
+
+And had experince of:
+* Node JS
+* Headless testing frameworks: Zombie.js, Poltergeist
+* CoffeeScript, Io and Clojure
 
 ##Experience
 
 ###Thomson Reuters
 **Web Portal Manager (Since May 2011)**
 
-My role is in equal parts creative and technical. I create and manage projects to improve and increase traffic to the consumer-facing legal portal, FindLaw. My daily work requires writing news blogs with a legal perspective and managing and resourcing external content writers. I have control of the content and design of the site and manage this both directly using various CMSs and also through liaising with external developers to build new projects and deal with ad-hoc bugs. I implement SEO strategy in conjunction with the in-house expert. I then monitor the performance of the website and report on traffic stats.
+My role is partly creative and partly technical. I create and manage projects to improve and increase traffic to the consumer-facing legal portal, FindLaw. My daily work requires writing news blogs with a legal perspective and managing and resourcing external content writers. I have control of the content and design of the site and manage this both directly using various CMSs and also through liaising with external developers to build new projects and deal with ad-hoc bugs. I implement SEO strategy in conjunction with the in-house expert. I then monitor the performance of the website and report on traffic stats. Since joining the company, my efforts have grown the site's traffic from an average of 42k visits per month to 300k visits per month.
 
 *Before joining TR, I travelled the world for several months.*
 
