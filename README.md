@@ -27,7 +27,7 @@ I began to teach myself HTML and CSS when I was working in an editorial role for
 * Object-oriented principles and design
 * Integration of APIs including Twilio and Google Maps
 
-And had experince of:
+And had experience of:
 * Node JS
 * Headless testing frameworks: Zombie.js, Poltergeist
 * CoffeeScript, Io and Clojure
