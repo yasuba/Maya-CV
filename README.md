@@ -4,23 +4,25 @@ I'm a junior developer looking for my first role after completing an intensive 1
 
 ##Code examples
 
- [Fhellow](https://fhellow.herokuapp.com)| [Yelp on Rails](https://github.com/yasuba/yelp-rails)| [Twitter front-end](https://github.com/yasuba/twitter-frontend)  
+ [Fhellow](https://fhellow.herokuapp.com)| [Chitter](https://github.com/yasuba/chitter_node)| [Twitter front-end](https://github.com/yasuba/twitter-frontend)  
  :------|:-----|:------
- Fhellow was my final project at Makers Academy. It is a social networking app for freelancers, built on Rails.| This was the first Rails project I built at Makers Academy. It is a restaurant review site similar to Yelp.| I was challenged to recreate the Twitter.com feed page, as close as possible to the real look and feel, in order to practice HTML and CSS.
+ Fhellow was my final project at Makers Academy. It is a social networking app for freelancers, built with Ruby on Rails.| This is my first attempt at a Node.js project. It is a messaging app based on Twitter.| I was challenged to recreate the Twitter.com feed page, as close as possible to the real look and feel, in order to practice HTML and CSS.
 
 ##Web development
 
 I began to teach myself HTML and CSS when I was working in an editorial role for Yahoo! I later taught myself PHP while taking a part-time course in web design and development at Birkbeck University. I then joined Makers Academy in August where I have gained skills in:
 
-* Ruby ~>2.0
+* Ruby
 * Javascript, jQuery and AJAX
 * HTML, ERB, EJS
 * CSS, Twitter Bootstrap
 * Rails
+* Node.js
 * Sinatra
 * PostgreSQL
 * Unit and integration testing: RSpec, Jasmine, Mocha
-* End-to-end and integration testing: Capybara, Cucumber
+* End-to-end and integration testing: Capybara, Cucumber, CasperJS
+* Headless testing frameworks: Phantom.js
 * Test-driven development and behaviour-driven development
 * Pair programming
 * Agile principles and practice
@@ -28,14 +30,12 @@ I began to teach myself HTML and CSS when I was working in an editorial role for
 * Integration of APIs including Twilio and Google Maps
 
 And had experience of:
-* Node JS
-* Headless testing frameworks: Zombie.js, Poltergeist
 * CoffeeScript, Io and Clojure
 
 ##Experience
 
 ###Thomson Reuters
-**Web Portal Manager (Since May 2011)**
+**Web Portal Manager (May 2011 - December 2014)**
 
 My role is partly creative and partly technical. I create and manage projects to improve and increase traffic to the consumer-facing legal portal, FindLaw. My daily work requires writing news blogs with a legal perspective and managing and resourcing external content writers. I have control of the content and design of the site and manage this both directly using various CMSs and also through liaising with external developers to build new projects and deal with ad-hoc bugs. I implement SEO strategy in conjunction with the in-house expert. I then monitor the performance of the website and report on traffic stats. Since joining the company, my efforts have grown the site's traffic from an average of 42k visits per month to 300k visits per month.
 
