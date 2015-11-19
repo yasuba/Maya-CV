@@ -1,38 +1,28 @@
 #Maya Driver
 
-I'm a junior developer looking for my first role after completing an intensive 12-week coding bootcamp at Makers Academy. In addition to my newly acquired coding skills, I have extensive experience in web editing and management.
+I'm a developer at consultancy firm Deloitte Digital. I'm looking for my second role. Before Deloitte, I graduated from Makers Academy, an intensive 12-week coding bootcamp.
 
-##Code examples
-
- [Fhellow](https://fhellow.herokuapp.com)| [Chitter](https://github.com/yasuba/chitter_node)| [Twitter front-end](https://github.com/yasuba/twitter-frontend)  
- :------|:-----|:------
- Fhellow was my final project at Makers Academy. It is a social networking app for freelancers, built with Ruby on Rails.| This is my first attempt at a Node.js project. It is a messaging app based on Twitter.| I was challenged to recreate the Twitter.com feed page, as close as possible to the real look and feel, in order to practice HTML and CSS.
-
-##Web development
-
-I began to teach myself HTML and CSS when I was working in an editorial role for Yahoo! I later taught myself PHP while taking a part-time course in web design and development at Birkbeck University. I then joined Makers Academy in August where I have gained skills in:
+##Skills
 
 * Ruby
-* Javascript, jQuery and AJAX
-* HTML, ERB, EJS
-* CSS, Twitter Bootstrap
+* Scala
+* Javascript
+* HTML, CSS
 * Rails
+* Play
 * Node.js
-* Sinatra
-* PostgreSQL
-* Unit and integration testing: RSpec, Jasmine, Mocha
-* End-to-end and integration testing: Capybara, Cucumber, CasperJS
-* Headless testing frameworks: Phantom.js
-* Test-driven development and behaviour-driven development
+* PostgreSQL, MySQL, MongoDB
+* Unit, End-to-end and integration testing
+* TDD and BDD
 * Pair programming
 * Agile principles and practice
-* Object-oriented principles and design
-* Integration of APIs including Twilio and Google Maps
-
-And had experience of:
-* CoffeeScript, Io and Clojure
 
 ##Experience
+
+###Deloitte Digital
+**Junior developer (February 2015)**
+
+Building stuff in Scala
 
 ###Thomson Reuters
 **Web Portal Manager (May 2011 - December 2014)**
