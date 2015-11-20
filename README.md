@@ -1,6 +1,6 @@
 #Maya Driver
 
-I'm a developer at consultancy firm Deloitte Digital. I'm looking for my second role. Before Deloitte, I graduated from Makers Academy, an intensive 12-week coding bootcamp.
+I'm a developer at consultancy firm Deloitte Digital. I'm looking for a Ruby or Scala role, as this is where my interests lie, although I am very keen to try any new technologies.
 
 ##Experience
 
