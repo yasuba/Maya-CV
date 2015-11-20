@@ -43,7 +43,9 @@ My role involved increasing traffic to the consumer-facing legal portal, FindLaw
 
 ###Makers Academy
 **Coding bootcamp**
-My final project at Makers was a social networking site for freelancers, built with Ruby on Rails. My team had one week to build the website. 
+
+My final project at Makers was a social networking site for freelancers, built with Ruby on Rails. My team had one week to build the website.
+
 [Fhellow](http://fhellow.herokuapp.com)
 
 ###Birkbeck University
