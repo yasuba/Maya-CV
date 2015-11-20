@@ -1,13 +1,13 @@
 #Maya Driver
 
-I'm a developer at consultancy firm Deloitte Digital. I'm looking for a Ruby or Scala role, as this is where my interests lie, although I am very keen to try any new technologies.
+I'm a developer at consultancy firm Deloitte Digital. I'm looking for a Ruby or Scala role, as that is where my interests lie, although I am very keen to try any new technologies.
 
 ##Experience
 
 ###Deloitte Digital
 **Junior developer (February 2015)**
 
-Sinxe joining Drloitte, I have worked on several projects, including building a Meteor web-based survey for internal use, contributing to a large-scale ecommerce website built on a Java platform on both front-end and back-end tickets, and also doing back-end development for a Scala project.
+Since joining Deloitte, I have worked on several projects, including building a Meteor web-based survey for internal use, contributing to a large-scale ecommerce website built on a Java platform, working on both front-end and back-end tickets, and also doing back-end development for a Scala project.
 
 ###Thomson Reuters
 **Web Portal Manager (May 2011 - December 2014)**
@@ -44,7 +44,7 @@ My role involved increasing traffic to the consumer-facing legal portal, FindLaw
 ###Makers Academy
 **Coding bootcamp**
 My final project at Makers was a social networking site for freelancers, built with Ruby on Rails. My team had one week to build the website. 
-(http://fhellow.herokuapp.com)
+[Fhellow](http://fhellow.herokuapp.com)
 
 ###Birkbeck University
 **Postgraduate certificate in web design and development: Distinction**
