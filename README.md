@@ -1,6 +1,6 @@
 #Maya Driver
 
-I'm a developer at consultancy firm Deloitte Digital. I'm looking for a Ruby or Scala role, as that is where my interests lie, although I am very keen to try any new technologies.
+I'm a developer at consultancy firm Deloitte Digital. I'm currently working with Scala and would like to find a role using either Scala or Ruby, but I am also interested in working with any OO or Functional language.
 
 ##Experience
 
