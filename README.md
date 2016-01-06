@@ -44,9 +44,10 @@ My role involved increasing traffic to the consumer-facing legal portal, FindLaw
 ###Makers Academy
 **Coding bootcamp**
 
-My final project at Makers was a social networking site for freelancers, built with Ruby on Rails. My team had two weeks to build the website.
+I built a number of projects while at Makers Academy, where I learned to code in Ruby and Javascript. Makers focused on TDD, pairing and the importance of clean code, refactoring, design patterns and more. Here is an example of an app I built while studying at Makers:
 
-[Fhellow](http://fhellow.herokuapp.com)
+[Chitter](https://chitter-node.herokuapp.com/)
+
 
 ###Birkbeck University
 **Postgraduate certificate in web design and development: Distinction**
